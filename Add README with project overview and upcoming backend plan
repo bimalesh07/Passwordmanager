@@ -30,7 +30,16 @@ It allows users to save and manage their website passwords securely using **loca
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/bimalesh07/Passwordmanager
 cd password-manager
 npm install
 npm run dev
+
+ Upcoming Features
+🌐 Backend integration with Express.js + MongoDB
+
+🔐 User Authentication (Register/Login)
+
+☁️ Cloud-based password storage
+
+🛡️ Encryption for better security
